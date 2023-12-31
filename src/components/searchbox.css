@@ -1,0 +1,9 @@
+.wrapper {
+    padding: 0.5rem;;
+}
+.searchbox {
+    border-style: solid; /* ba */
+    border-color: green; /* b--green */
+    background-color: #e1f5fe; /* bg-lightest-blue */
+    padding: 0.5rem; /* pa2 */
+}

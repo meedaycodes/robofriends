@@ -1,0 +1,16 @@
+.robots {
+        background-color: #95ffa4; /* tachyons bg-light-green */
+        display: inline-block; /* tachyons dib */
+        border-radius: 0.5rem; /* tachyons br3 */
+        padding: 1rem; /* tachyons pa3 */
+        margin: 0.5rem; /* tachyons ma2 */
+        transition: all 0.2s ease-in-out;
+        border-width: 2px;
+        box-shadow: 0 2px 4px 0 rgba(0,0,0,0.10);
+        text-align: center;
+}
+
+.robots:hover {
+    transform: scale(1.1);
+}
+
